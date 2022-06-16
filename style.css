@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Lato:ital,wght@0,300;0,700;1,400&family=Open+Sans:ital,wght@0,300;0,500;0,700;1,300;1,600&family=Redressed&family=Roboto:wght@300;400;500&family=Shizuru&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;1,200;1,300&family=Updock&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(209, 210, 210);
+}
+
+main {
+  width: 80vw;
+  margin: auto;
+  color: rgba(255, 255, 255, 0.772);
+  font-family: "Josefin Sans", sans-serif;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.first-Content {
+  width: 26.6%;
+  background-color: #e28525;
+  height: 60%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+h1 {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.first-Content,
+.second-Content,
+.third-Content {
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 15px;
+}
+
+.second-Content {
+  width: 26.6%;
+  background-color: #316a72;
+  height: 60%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.third-Content {
+  width: 26.6%;
+  background-color: #1b403f;
+  height: 60%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+button {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 80px;
+  margin-left: 35px;
+  border-radius: 20px;
+  border: none;
+}
