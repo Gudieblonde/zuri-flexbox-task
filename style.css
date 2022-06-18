@@ -68,3 +68,15 @@ button {
   border-radius: 20px;
   border: none;
 }
+ .gridUrl {
+  margin-left: 30vw;
+  font-size: 2vw;
+  padding: 10px 60px;
+  background-color: #1b403f;
+  color: white;
+ }
+
+ .gridUrl:hover{
+  background-color: white;
+  color: #1b403f;
+ }
